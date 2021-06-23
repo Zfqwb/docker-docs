@@ -19,12 +19,32 @@ new Docute({
       title: 'Guide',
       links: [
         {
-          title: 'Introduction',
-          link: '/introduction'
+          title: '初识 Docker ',
+          link: '/1'
         },
         {
-          title: 'Installation',
-          link: '/installation'
+          title: 'Docker 命令',
+          link: '/2'
+        },
+        {
+          title: 'Docker 容器数据卷',
+          link: '/3'
+        },
+        {
+          title: 'Dockerfile',
+          link: '/4'
+        },
+        {
+          title: 'Docker 应用部署',
+          link: '/5'
+        },
+        {
+          title: 'Docker 服务编排',
+          link: '/6'
+        },
+        {
+          title: 'Docker 私有仓库',
+          link: '/7'
         }
       ]
     }
