@@ -48,7 +48,7 @@ new Docute({
         },
         {
           title: 'test',
-          link: 'https://cdn.jsdelivr.net/gh/Zfqwb/MySQL-RM@1.0/docs/README.md'
+          link: 'https://cdn.jsdelivr.net/gh/Zfqwb/MySQL-RM@1.0/docs/README'
         }
       ]
     }
