@@ -45,10 +45,6 @@ new Docute({
         {
           title: 'Docker 私有仓库',
           link: '/7'
-        },
-        {
-          title: 'test',
-          link: 'https://cdn.jsdelivr.net/gh/Zfqwb/MySQL-RM@1.0/docs/README'
         }
       ]
     }
